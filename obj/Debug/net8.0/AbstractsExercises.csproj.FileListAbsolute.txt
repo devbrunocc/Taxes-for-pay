@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\AbstractsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\AbstractsExercises.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\AbstractsExercises.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\AbstractsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\bin\Debug\net8.0\AbstractsExercises.exe
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\bin\Debug\net8.0\AbstractsExercises.deps.json
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\bin\Debug\net8.0\AbstractsExercises.runtimeconfig.json
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\bin\Debug\net8.0\AbstractsExercises.dll
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\bin\Debug\net8.0\AbstractsExercises.pdb
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\AbstractsExercises.dll
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\refint\AbstractsExercises.dll
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\AbstractsExercises.pdb
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\AbstractsExercises.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Visual Studio\C#\AbstractsExercises\AbstractsExercises\obj\Debug\net8.0\ref\AbstractsExercises.dll
